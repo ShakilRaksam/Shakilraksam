@@ -12,8 +12,8 @@
 <a href="https://instagram.com/shakilraksam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakilraksam" height="30" width="40" /></a>
 <a href="https://www.behance.net/shakilraksam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilraksam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shakilraksam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shakilraksam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shakilraksam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shakilraksam" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shakilraksam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shakilraksam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/shakilraksam8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shakilraksam" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/shakilraksam8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shakilraksam" height="30" width="40" /></a>
 <a href="https://discord.gg/1037746799605207081" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shakilraksam" height="30" width="40" /></a>
 </p>
 
